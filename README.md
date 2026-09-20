@@ -27,16 +27,21 @@ transmissions and mechanical systems. The 2022 offering also includes the Reachy
 Fusion design project. Consult the corresponding annual course page for its
 actual teaching arrangements, assessment and materials.
 
-## Annual Materials
+## Course Pages and Annual Materials
 
-| Offering | Downloadable Materials | Files in Folder | Original Course Page |
-| --- | --- | --- | --- |
-| 2018 Autumn | [2018-autumn/](2018-autumn/) | 20 PDFs | [ME303 — 2018 Autumn](https://me303.ancorasir.com/?page_id=115) |
-| 2019 Autumn | [2019-autumn/](2019-autumn/) | 20 PDFs | [ME303 — 2019 Autumn](https://me303.ancorasir.com/?page_id=113) |
-| 2021 Autumn | [2021-autumn/](2021-autumn/) | 15 PDFs | [ME303 — 2021 Autumn](https://me303.ancorasir.com/?page_id=70) |
-| 2022 Autumn | [2022-autumn/](2022-autumn/) | 31 materials | [ME303 — 2022 Autumn](https://me303.ancorasir.com/) |
-| 2023 Autumn | [2023-autumn/](2023-autumn/) | 52 materials | [ME311 — 2023 Autumn](https://me311.ancorasir.com/?page_id=6) |
-| 2024 Autumn | [2024-autumn/](2024-autumn/) | 52 materials | [ME311 — 2024 Autumn](https://me311.ancorasir.com/) |
+Read the [published course archive](https://x.ancorasir.com/me303-311/) and use
+its year selector to switch offerings. The current default is **2024 Autumn**.
+Each course page retains its historical teaching arrangements; materials are
+downloaded from the corresponding folder below.
+
+| Offering | Published Course Page | Downloadable Materials | Files in Folder | Original Source |
+| --- | --- | --- | --- | --- |
+| 2018 Autumn | [Read course](https://x.ancorasir.com/me303-311/2018-autumn) | [2018-autumn/](2018-autumn/) | 20 PDFs | [2018 source](https://me303.ancorasir.com/?page_id=115) |
+| 2019 Autumn | [Read course](https://x.ancorasir.com/me303-311/2019-autumn) | [2019-autumn/](2019-autumn/) | 20 PDFs | [2019 source](https://me303.ancorasir.com/?page_id=113) |
+| 2021 Autumn | [Read course](https://x.ancorasir.com/me303-311/2021-autumn) | [2021-autumn/](2021-autumn/) | 15 PDFs | [2021 source](https://me303.ancorasir.com/?page_id=70) |
+| 2022 Autumn | [Read course](https://x.ancorasir.com/me303-311/2022-autumn) | [2022-autumn/](2022-autumn/) | 31 materials | [2022 source](https://me303.ancorasir.com/) |
+| 2023 Autumn | [Read course](https://x.ancorasir.com/me303-311/2023-autumn) | [2023-autumn/](2023-autumn/) | 52 materials | [2023 source](https://me311.ancorasir.com/?page_id=6) |
+| 2024 Autumn | [Read course](https://x.ancorasir.com/me303-311/) | [2024-autumn/](2024-autumn/) | 52 materials | [2024 source](https://me311.ancorasir.com/) |
 
 Each term has its own top-level folder. Original filenames and approved file
 bytes are preserved; the same material can appear in more than one offering.
@@ -59,9 +64,12 @@ Course pages can link directly to these public GitHub files. Downloading a
 complete repository ZIP includes all archived terms and may be substantially
 larger than the individual files you need.
 
-GitBook course views are prepared separately. Public GitBook links will be added
-after those views are published; the original course pages above remain the
-reference links for now.
+The published course pages and their linked GitHub materials were checked for
+anonymous reader access on **20 September 2026**. Calendars and the historical
+2018 video remain hosted in the course pages' own GitBook Library. External
+services and the explicitly documented unmirrored files are not covered by the
+repository's download checks. Original source links above are retained for
+historical provenance.
 
 ## Credits and Enquiries
 
