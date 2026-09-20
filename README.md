@@ -12,16 +12,21 @@ This course archive is prepared using
 This repository holds downloadable course files, not the private Teacher
 authoring workspace.
 
-## Available Offering
+## Available Offerings
 
 | Term | Materials | Original course page |
 | --- | --- | --- |
 | 2018 Autumn | [2018-autumn/](2018-autumn/) | [ME303 — Autumn 2018](https://me303.ancorasir.com/?page_id=115) |
+| 2019 Autumn | [2019-autumn/](2019-autumn/) | [ME303 — Autumn 2019](https://me303.ancorasir.com/?page_id=113) |
 
 The 2018 folder preserves the twenty original PDF files linked by that course
 page, using their existing filenames and bytes. The course instructor has
 confirmed their use as the 2018 offering's materials. Further offerings will be
 added chronologically through 2024 Autumn after preparation and review.
+
+The 2019 folder preserves the twenty original PDFs linked by the 2019 course
+page. These files match the already archived 2018 set byte-for-byte; separate
+term folders keep the annual course links independent.
 
 ## Course Pages and Downloads
 
