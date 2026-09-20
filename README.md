@@ -1,53 +1,79 @@
-# ME303 / ME311 — Mechanical Design Course Materials
+# ME303 / ME311 — Mechanical Design
 
-Course materials for **ME303 Introduction to Mechanical Design** and its
-successor **ME311 Mechanical Design** at the Southern University of Science and
-Technology (SUSTech).
+Historical teaching materials for **ME303 Introduction to Mechanical Design**
+and its successor **ME311 Mechanical Design**, taught at the Southern University
+of Science and Technology (SUSTech).
 
-**Course instructor: Prof. SONG Chaoyang**, Design and Learning Research Group.
-Visit [AncoraSIR.com](https://ancorasir.com/) for the research group's website.
+**Course instructor: Prof. SONG Chaoyang** · [songcy@ieee.org](mailto:songcy@ieee.org)
 
-This course archive is prepared using
+**Design and Learning Research Group** · [AncoraSIR.com](https://AncoraSIR.com)
+
+The accompanying One-Page course archive is prepared using
 [asTeach App v0.1](https://github.com/ancorasir/asTeach-App/releases/tag/v0.1).
-This repository holds downloadable course files, not the private Teacher
-authoring workspace.
+This public repository contains downloadable materials only. It does not contain
+the private Teacher workspace, preparation notes or development records.
 
-## Available Offerings
+> **Historical archive — not a current course submission system.** Dates,
+> assignments, answers, submission links and QR codes inside the original files
+> belong to their historical offerings. Do not submit work or personal information
+> through those old links or QR codes. Contact the instructor about current use.
 
-| Term | Materials | Original course page |
-| --- | --- | --- |
-| 2018 Autumn | [2018-autumn/](2018-autumn/) | [ME303 — Autumn 2018](https://me303.ancorasir.com/?page_id=115) |
-| 2019 Autumn | [2019-autumn/](2019-autumn/) | [ME303 — Autumn 2019](https://me303.ancorasir.com/?page_id=113) |
-| 2021 Autumn | [2021-autumn/](2021-autumn/) | [ME303 — Autumn 2021](https://me303.ancorasir.com/?page_id=70) |
+## About the Course
 
-The 2018 folder preserves the twenty original PDF files linked by that course
-page, using their existing filenames and bytes. The course instructor has
-confirmed their use as the 2018 offering's materials. Further offerings will be
-added chronologically through 2024 Autumn after preparation and review.
+The course develops mechanical-design knowledge through engineering analysis,
+component selection and design, and practical design activities. Topics vary by
+offering and include mechanisms, gears, shafts and bearings, joints, flexible
+transmissions and mechanical systems. The 2022 offering also includes the Reachy
+Fusion design project. Consult the corresponding annual course page for its
+actual teaching arrangements, assessment and materials.
 
-The 2019 folder preserves the twenty original PDFs linked by the 2019 course
-page. These files match the already archived 2018 set byte-for-byte; separate
-term folders keep the annual course links independent.
+## Annual Materials
 
-The 2021 folder preserves fifteen original lecture PDFs and their HUST adaptation
-credit. See its [historical-use notice](2021-autumn/README.md) before using files
-containing old submission links or QR codes. The 2020 offering is deferred for
-the planned multi-page course version.
+| Offering | Downloadable Materials | Files in Folder | Original Course Page |
+| --- | --- | --- | --- |
+| 2018 Autumn | [2018-autumn/](2018-autumn/) | 20 PDFs | [ME303 — 2018 Autumn](https://me303.ancorasir.com/?page_id=115) |
+| 2019 Autumn | [2019-autumn/](2019-autumn/) | 20 PDFs | [ME303 — 2019 Autumn](https://me303.ancorasir.com/?page_id=113) |
+| 2021 Autumn | [2021-autumn/](2021-autumn/) | 15 PDFs | [ME303 — 2021 Autumn](https://me303.ancorasir.com/?page_id=70) |
+| 2022 Autumn | [2022-autumn/](2022-autumn/) | 31 materials | [ME303 — 2022 Autumn](https://me303.ancorasir.com/) |
+| 2023 Autumn | [2023-autumn/](2023-autumn/) | 52 materials | [ME311 — 2023 Autumn](https://me311.ancorasir.com/?page_id=6) |
+| 2024 Autumn | [2024-autumn/](2024-autumn/) | 52 materials | [ME311 — 2024 Autumn](https://me311.ancorasir.com/) |
 
-## Course Pages and Downloads
+Each term has its own top-level folder. Original filenames and approved file
+bytes are preserved; the same material can appear in more than one offering.
+Counts exclude README files.
+The instructor has confirmed the 2018 source-linked files as that offering's
+materials, even where a document internally refers to a later year. The 2019
+set matches the 2018 files byte-for-byte.
 
-- [ME311 course website and historical offerings](https://me311.ancorasir.com/)
-- [ME303 predecessor course website](https://me303.ancorasir.com/)
+The 2020 offering is not included in this archive. See the available annual READMEs
+for their exact coverage and any files that could not be mirrored. External services,
+CAD workspaces and submission systems are not part of the file archive.
 
-Files are organized directly under `year-season/` folders, such as
-`2018-autumn/`. Open a file in GitHub and use its download control to save it.
-GitBook course pages can link to the same files without duplicating the PDFs
-in GitBook's Library. The new GitBook course views are being prepared separately.
+## Find and Download a File
 
-## Attribution and Enquiries
+1. Open the folder for the relevant term.
+2. Select the file you need.
+3. Use GitHub's **Download raw file** control to save the original file.
 
-Teaching content and course design are credited to Prof. SONG Chaoyang and the
-contributors credited in the original files. Third-party materials retain their
-original attribution and applicable rights. This repository does not apply a
-blanket license to those materials. For course-material enquiries, contact the
-course instructor through the linked course or research-group website.
+Course pages can link directly to these public GitHub files. Downloading a
+complete repository ZIP includes all archived terms and may be substantially
+larger than the individual files you need.
+
+GitBook course views are prepared separately. Public GitBook links will be added
+after those views are published; the original course pages above remain the
+reference links for now.
+
+## Credits and Enquiries
+
+Course design and teaching materials are credited to **Prof. SONG Chaoyang** and
+the teaching assistants and other contributors acknowledged in the original
+files. Retained HUST adaptation credits and other third-party attributions remain
+part of those originals. Third-party material retains its applicable rights;
+this repository does **not** apply a blanket open-source license to it.
+
+For questions about course content, historical materials, attribution or
+permissions, contact the course instructor at [songcy@ieee.org](mailto:songcy@ieee.org).
+
+The asTeach template is created by **SONG Chaoyang** @ **Design and Learning
+Research Group**. Its software/template license is separate from the rights in
+these course materials.
